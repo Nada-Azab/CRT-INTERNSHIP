@@ -1,7 +1,6 @@
 # CRT-INTERNSHIP
 #### Code Raja Technologies internship as machine learning engineer.
 ###### link the competation to take data :
-<br>task1:in this Repo.<\br>
 task2:https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews
 
 
